@@ -1,3 +1,3 @@
 # .github
 
-Default community health files for Electrolux
+Default organization health files for Electrolux
