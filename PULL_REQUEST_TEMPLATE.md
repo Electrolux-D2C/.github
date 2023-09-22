@@ -49,6 +49,9 @@
 - [ ] Do we think about content management (Site Editor)?
 - [ ] Do we really need content management?
 - [ ] Is the component disposition on the Site Editor well organized?
+- [ ] Am I doing error handling?
+- [ ] If my component does not respond, will not this affect page loading?
+- [ ] My component does not return generic errors?
 - [ ] Have I used Conventional Commits in my commits?
 
 ## Additional Observations
