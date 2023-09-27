@@ -53,6 +53,7 @@
 - [ ] If my component does not respond, will not this affect page loading?
 - [ ] My component does not return generic errors?
 - [ ] Have I used Conventional Commits in my commits?
+- [ ] Have I updated the Changelog?
 
 ## Additional Observations
 
