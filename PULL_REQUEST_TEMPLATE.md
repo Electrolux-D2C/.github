@@ -64,7 +64,6 @@
 - [Task ID](https://) - Task Title 1.
 - [Task ID](https://) - Task Title 2.
 
-
 ## Screenshots (if applicable)
 
 <!-- Include screenshots or gifs that demonstrate UI changes or any new features implemented. -->
